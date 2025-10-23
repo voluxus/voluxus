@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Profile banner picture](banner.png)
+
 <!--
 **voluxus/voluxus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
